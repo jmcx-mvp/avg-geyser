@@ -4,17 +4,17 @@ If you need technical development services, please go to: https://sealsc.com/  .
 如果有开发需求，请联系：https://sealsc.com/ 。
 
 
-![Preview-1](./src/assets/preview1.png)
+![Preview-1](/src/assets/preview1.png)
 
 https://avengers.shop/#/
 
-![Preview-2](./src/assets/preview2.png)
+![Preview-2](/src/assets/preview2.png)
 
 #### Code update in progress, so stay tuned.
 
 #### Project setup
 ```
-yarn installgit config commit.gpgsign false
+yarn install
 ```
 
 ##### Compiles and hot-reloads for development
